@@ -2,6 +2,7 @@ name: method_extractor
 description: Annotation
 version: 1.0.0
 author: Liew Jun Tung <liewjuntung@gmail.com>
+repository: https://github.com/LiewJunTung/Method-Extractor
 
 environment:
   sdk: ">=2.9.0 <3.0.0"

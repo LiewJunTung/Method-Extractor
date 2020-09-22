@@ -3,9 +3,9 @@ class MethodExtractor {
   const MethodExtractor();
 }
 
-class IgnoreMethodExtractor {
-  const IgnoreMethodExtractor();
+class ExtractMethod {
+  const ExtractMethod();
 }
 
 const methodExtractor = MethodExtractor();
-const ignoreMethodExtractor = IgnoreMethodExtractor();
+const extractMethod = ExtractMethod();

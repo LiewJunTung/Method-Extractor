@@ -1,6 +1,6 @@
 name: method_extractor
 description: Annotation
-version: 1.2.0
+version: 1.2.0+1
 repository: https://github.com/LiewJunTung/Method-Extractor
 
 environment:

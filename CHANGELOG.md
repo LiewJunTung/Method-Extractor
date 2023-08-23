@@ -1,3 +1,9 @@
+### 2.0.1
+- feat: bump flutter
+
+### 2.0.0
+- feat: migrate to null-safety
+
 ### 1.2.0+1
 - Analyzer
 
